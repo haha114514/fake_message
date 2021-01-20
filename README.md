@@ -1,8 +1,9 @@
 # fake_message
-A modified version of https://github.com/pcrbot/fake_message
+A modified version of https://github.com/pcrbot/fake_message for Hoshinobot
 
 # What's been modified?
 1.No need to enter each user's name anymore.
+#
 2.Use "/" to sperate each order instead of "/n", which is hard to do on mobile QQ and QQ for MacOS.
 
 # Screenshot

@@ -10,4 +10,7 @@ A modified version of https://github.com/pcrbot/fake_message for Hoshinobot
 <img src="https://github.com/haha114514/fake_message/raw/main/fake_message/test_image.png" alt="演示" style="max-width:100%;">
 
 # Usage
+Single Message
 <假消息 @用户 消息> 
+Multiple Messages
+<假消息 @用户 消息/@用户2 消息2/@用户 消息3> 
